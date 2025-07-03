@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Racshanyaa</h1>
 <h3 align="center">A passionate full-stack developer from Singapore!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=racshanyaajagadish15" alt="racshanyaajagadish15" /></a> </p>
-
 - 🔭 I’m currently working on [Parkly](https://github.com/racshanyaajagadish15/Parkly)
 
 - 👨‍💻 All of my projects are available at [https://github.com/racshanyaajagadish15](https://github.com/racshanyaajagadish15)
